@@ -1,0 +1,7 @@
+@mixin pseudo-image {
+    background-color: #aaa;
+    color: $w;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+}
